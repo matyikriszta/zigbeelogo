@@ -1,6 +1,6 @@
 $.fn.zigbee = function() {
   var canvas = document.createElement('canvas'),
-			logo = document.getElementById('logo'),
+			logo = $(this)[0],
 			ctx = canvas.getContext('2d');
 	
 	// create canvas	
