@@ -1,0 +1,9 @@
+<svg id="logo" data-name="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+	<defs>
+		<style>.cls-1{fill:#1d1d1b;}</style>
+	</defs>
+	<path class="cls-1" d="M64.77,60.77A13,13,0,0,1,87,70a13.06,13.06,0,0,1-22.23,9.23,13.2,13.2,0,0,1,0-18.47Z"/>
+	<path class="cls-1" d="M116.77,60.77A13,13,0,0,1,139,70a13,13,0,1,1-22.23-9.23Z"/>
+	<rect class="cls-1" x="48" y="95" width="104" height="18"/>
+	<rect class="cls-1" x="48" y="125" width="104" height="18"/>
+</svg>
