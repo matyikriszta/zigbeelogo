@@ -31,3 +31,9 @@ duplicates them with boxshadows. The container scales based on width.
 	<div id="logo"></div>
 ```
 
+## Browsersupport CSS
+
+| Chrome  	| Safari  	| Firefox  	| Opera  	| IE  	| Android  	| iOS  	 |
+|-----------|-----------|-----------|-----------|-------|-----------|--------|
+| Any	    |   3+      |   3.5+    |   10.5+   |  9+   |   2.3+    | 4.0.2+ |
+
