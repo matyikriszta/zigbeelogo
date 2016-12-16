@@ -1,29 +1,29 @@
 #logo {
   position: relative;
-  width: 1em;
-  height: 1em;
-  font-size: 50pt;
+  width: 10em;
+  font-size: 1.25em;
 }
 
 #logo:after {
   content: "";
   position: absolute;
-  left: 0;
-  top: 0.35em;
-  width: 1em;
-  height: 0.2em;
+  left: 2.4em;
+  right: 2.4em;
+  top: 4.7em;
+  width: 5.2em;
+  height: 0.9em;
   background: black;
-  box-shadow: 0 0.35em 0 0 black;
+  box-shadow: 0 1.5em 0 0 black;
 }
 
 #logo:before {
   content: "";
   position: absolute;
-  left: 0.04em;
-  top: 0em;
-  width: 0.28em;
-  height: 0.28em;
+  left: 3.05em;  
+  top: 2.8em;
+  width: 1.3em;
+  height: 1.3em;
   background: black;
   border-radius: 100%;
-  box-shadow: 0.6em 0 0 0 black;
+  box-shadow: 2.6em 0 0 0 black;
 }
