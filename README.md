@@ -16,7 +16,7 @@ Simply create a container div and call the plugin:
 
 - JQuery 
 
-## Browsersupport
+## Browsersupport for JS version
 
 pleaser refer to this [report](http://caniuse.com/#feat=canvas)
 
@@ -30,7 +30,7 @@ Simply include as SVG in an img tag or paste directly into your html to modify.
 	</div>
 ```
 
-## Browsersupport for SVG
+## Browsersupport for SVG version
 
 pleaser refer to this [report](http://caniuse.com/#search=svg)
 
@@ -43,7 +43,7 @@ duplicates them with boxshadows. The container scales based on width.
 	<div id="logo"></div>
 ```
 
-## Browsersupport CSS
+## Browsersupport for CSS version
 
 | Chrome  	| Safari  	| Firefox  	| Opera  	| IE  	| Android  	| iOS  	 |
 |-----------|-----------|-----------|-----------|-------|-----------|--------|
