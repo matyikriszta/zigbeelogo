@@ -24,4 +24,10 @@ Simply include as SVG in an img tag or paste directly into your html to modify.
 
 # CSS
 
-Still working on it
+Simply include the css stylesheet and create a a div with the id logo. The css version works with pseudo elements and 
+duplicates them with boxshadows. The container scales based on width.
+
+```html
+	<div id="logo"></div>
+```
+
