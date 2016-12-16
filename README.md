@@ -12,6 +12,14 @@ Simply create a container div and call the plugin:
 	$('#logo').zigbee();
 ```
 
+## JS Dependencies 
+
+- JQuery 
+
+## Browsersupport
+
+pleaser refer to this [report](http://caniuse.com/#feat=canvas)
+
 # SVG
 
 Simply include as SVG in an img tag or paste directly into your html to modify.
@@ -21,6 +29,10 @@ Simply include as SVG in an img tag or paste directly into your html to modify.
 		<img src="images/zigbee_logo.svg">
 	</div>
 ```
+
+## Browsersupport for SVG
+
+pleaser refer to this [report](http://caniuse.com/#search=svg)
 
 # CSS
 
