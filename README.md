@@ -43,6 +43,9 @@ duplicates them with boxshadows. The container scales based on width.
 	<div id="logo"></div>
 ```
 
+Since all values are in em you will need to adjust the font-size to your div size to align your element dimensions to the logo dimensions. For responsive behaviour use vW for width, height and font-size. 
+
+
 ## Browsersupport for CSS version
 
 | Chrome  	| Safari  	| Firefox  	| Opera  	| IE  	| Android  	| iOS  	 |
